@@ -179,10 +179,6 @@ A comprehensive full-stack web application for managing student leave and outpas
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
 For support and questions, please open an issue in the repository. 
